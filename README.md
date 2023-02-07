@@ -10,5 +10,4 @@ Thanks to MVVM, software is divided into packages with single-responsibility and
 From user point of view, system not only satisfies every requirement, but it also involve several extra features. The system can save images to the database and then display them properly in the application. Also, user can pick exact dates for which the reservation should be placed. From programmer point of view, the system was tested using white-box and black-box approach. System also uses number of design patterns, thanks to what it is simply extendable and easy to manage in future. 
 
 <img 
-     src="workspace/src/assets/images/icons/KasperkyScreen1.png"
-     alt="Grapefruit slice atop a pile of other slices">
+     src="screen3.png">
